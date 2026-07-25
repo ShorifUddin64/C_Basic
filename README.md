@@ -17,15 +17,22 @@ This module focuses on **C++ development**, covering Object-Oriented Programming
 * **Modern C++ Features:** Smart Pointers (`std::unique_ptr`, `std::shared_ptr`), Lambda Expressions, Templates.
 
 ---
---Topic
+                                                      TOPIC
+---
 
 CHAPTER 1: An Overview of C++
   ✅ 1.1 What is OOP? (Day 4-এ overview হয়েছে)
+
   ⬜ 1.2 Two Versions of C++
+
   ⬜ 1.3 C++ Console I/O
+
   ⬜ 1.4 C++ Comments
+
   ⬜ 1.5 Classes: A First Look
+
   ⬜ 1.6 Differences Between C and C++
+
   ⬜ 1.7 Function Overloading (Intro)
   ⬜ 1.8 C++ Keywords
 
